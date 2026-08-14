@@ -1,0 +1,42 @@
+{
+  "profile": {
+    "age": 35,
+    "risk_profile": "moderate",
+    "goals": [
+      "retirement",
+      "child education"
+    ]
+  },
+  "funds": [
+    {
+      "ticker": "CREL",
+      "name": "Crest Large Cap Fund",
+      "allocation": 0.25
+    },
+    {
+      "ticker": "SUMFLEX",
+      "name": "Summit Flexi Cap Fund",
+      "allocation": 0.15
+    },
+    {
+      "ticker": "BALADV",
+      "name": "Balance Advantage Fund",
+      "allocation": 0.2
+    },
+    {
+      "ticker": "SECCORP",
+      "name": "Secure Corporate Bond Fund",
+      "allocation": 0.15
+    },
+    {
+      "ticker": "HORIZMID",
+      "name": "Horizon Mid Cap Fund",
+      "allocation": 0.15
+    },
+    {
+      "ticker": "PINSC",
+      "name": "Pinnacle Small Cap Fund",
+      "allocation": 0.1
+    }
+  ]
+}

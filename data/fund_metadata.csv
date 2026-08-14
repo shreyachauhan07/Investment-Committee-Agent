@@ -1,0 +1,11 @@
+ticker,name,category,benchmark,expense_ratio_pct,aum_million
+CREL,Crest Large Cap Fund,Large Cap Equity,LargeCap 250 Index,1.05,8600
+ATL500,Atlas Index 500 Fund,Large Cap Equity,Broad 500 Index,0.35,15400
+SUMFLEX,Summit Flexi Cap Fund,Flexi Cap Equity,Flexi Cap Index,1.1,6300
+HORIZMID,Horizon Mid Cap Fund,Mid Cap Equity,MidCap 150 Index,1.35,4100
+PINSC,Pinnacle Small Cap Fund,Small Cap Equity,SmallCap 250 Index,1.55,2300
+NOVAGL,Nova Global Equity Fund,International Equity,MSCI World Index,1.4,2900
+BALADV,Balance Advantage Fund,Balanced Hybrid,Hybrid 40:60 Index,1.2,4800
+SECCORP,Secure Corporate Bond Fund,Corporate Bond,Corporate Bond Index,0.6,6700
+PRUGILT,Prudent Gilt Fund,Government Bond,G-Sec Index,0.75,3100
+LIQTR,Liquid Treasury Fund,Liquid,Treasury Bill Index,0.25,9900

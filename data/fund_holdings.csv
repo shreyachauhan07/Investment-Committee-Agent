@@ -1,0 +1,58 @@
+fund_ticker,holding_ticker,holding_name,sector,weight
+CREL,MEGTECH,MegaTech Ltd,Technology,0.22
+CREL,NATBANK,National Bank Ltd,Banking,0.2
+CREL,FIRSTBNK,First National Bank,Banking,0.16
+CREL,SOLENER,Solar Energy Corp,Energy,0.12
+CREL,LIFEPH,LifePharma Ltd,Pharmaceuticals,0.14
+CREL,TELCONE,TelecomOne Ltd,Telecom,0.16
+ATL500,MEGTECH,MegaTech Ltd,Technology,0.15
+ATL500,NATBANK,National Bank Ltd,Banking,0.14
+ATL500,FIRSTBNK,First National Bank,Banking,0.12
+ATL500,SOLENER,Solar Energy Corp,Energy,0.1
+ATL500,LIFEPH,LifePharma Ltd,Pharmaceuticals,0.09
+ATL500,TELCONE,TelecomOne Ltd,Telecom,0.08
+ATL500,CONSSTAR,ConsumerStar Ltd,Consumer,0.08
+ATL500,INFRBLD,InfraBuild Ltd,Infrastructure,0.07
+ATL500,METLWRK,MetalWorks Ltd,Metals & Mining,0.06
+ATL500,FINEDGE,FinEdge Ltd,Financial Services,0.06
+ATL500,CHEMPLS,ChemPlus Ltd,Chemicals,0.03
+ATL500,RETAILHUB,RetailHub Ltd,Retail,0.02
+SUMFLEX,MEGTECH,MegaTech Ltd,Technology,0.18
+SUMFLEX,NATBANK,National Bank Ltd,Banking,0.17
+SUMFLEX,FIRSTBNK,First National Bank,Banking,0.13
+SUMFLEX,SOLENER,Solar Energy Corp,Energy,0.1
+SUMFLEX,AUTODRV,AutoDrive Ltd,Automobile,0.12
+SUMFLEX,TELCONE,TelecomOne Ltd,Telecom,0.1
+SUMFLEX,CONSSTAR,ConsumerStar Ltd,Consumer,0.09
+SUMFLEX,FINEDGE,FinEdge Ltd,Financial Services,0.11
+HORIZMID,AUTODRV,AutoDrive Ltd,Automobile,0.18
+HORIZMID,TELCONE,TelecomOne Ltd,Telecom,0.16
+HORIZMID,CONSSTAR,ConsumerStar Ltd,Consumer,0.14
+HORIZMID,INFRBLD,InfraBuild Ltd,Infrastructure,0.13
+HORIZMID,METLWRK,MetalWorks Ltd,Metals & Mining,0.12
+HORIZMID,FINEDGE,FinEdge Ltd,Financial Services,0.12
+HORIZMID,ENGNCO,EngineCo Ltd,Industrials,0.15
+PINSC,METLWRK,MetalWorks Ltd,Metals & Mining,0.2
+PINSC,ENGNCO,EngineCo Ltd,Industrials,0.18
+PINSC,RETAILHUB,RetailHub Ltd,Retail,0.17
+PINSC,CHEMPLS,ChemPlus Ltd,Chemicals,0.16
+PINSC,CONSSTAR,ConsumerStar Ltd,Consumer,0.15
+PINSC,INFRBLD,InfraBuild Ltd,Infrastructure,0.14
+NOVAGL,MEGTECH,MegaTech Ltd,Technology,0.25
+NOVAGL,SOLENER,Solar Energy Corp,Energy,0.2
+NOVAGL,LIFEPH,LifePharma Ltd,Pharmaceuticals,0.15
+NOVAGL,TELCONE,TelecomOne Ltd,Telecom,0.15
+NOVAGL,FINEDGE,FinEdge Ltd,Financial Services,0.15
+NOVAGL,RETAILHUB,RetailHub Ltd,Retail,0.1
+BALADV,NATBANK,National Bank Ltd,Banking,0.14
+BALADV,FIRSTBNK,First National Bank,Banking,0.11
+BALADV,MEGTECH,MegaTech Ltd,Technology,0.1
+BALADV,GOVT,Government Securities,Government,0.45
+BALADV,CHEMPLS,ChemPlus Ltd,Chemicals,0.08
+BALADV,INFRBLD,InfraBuild Ltd,Infrastructure,0.12
+SECCORP,GOVT,Government Securities,Government,0.35
+SECCORP,NATBANK,National Bank Ltd,Banking,0.25
+SECCORP,FIRSTBNK,First National Bank,Banking,0.2
+SECCORP,FINEDGE,FinEdge Ltd,Financial Services,0.2
+PRUGILT,GOVT,Government Securities,Government,1.0
+LIQTR,GOVT,Government Securities,Government,1.0
